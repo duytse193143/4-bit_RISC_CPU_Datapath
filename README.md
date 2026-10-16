@@ -7,7 +7,7 @@ A complete 4-bit RISC-style processor written in Verilog at the Register-Transfe
 | **Author** | Tran Duy (SE193143) |
 | **Course** | Semiconductor & VLSI Industry Readiness Program |
 | **Instructor** | Mr Shivashish pal |
-| **Tools** | AMD Vivado [version], Vivado Simulator (XSim) |
+| **Tools** | AMD Vivado, Vivado Simulator (XSim) |
 | **Target device** | Artix-7 xc7a35tcpg236-1 [board name] |
 
 ---
